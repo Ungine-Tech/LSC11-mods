@@ -37,13 +37,13 @@
 		#Range: -1.0 ~ 4.0
 		SUPPRESS_PETUNIA_PLAINS = 0.0
 		#Range: -1.0 ~ 4.0
-		SUPPRESS_GOLDEN_BEACH = 0.0
+		SUPPRESS_GOLDEN_BEACH = 0.05
 		#Range: -1.0 ~ 4.0
 		SUPPRESS_PALM_BEACH = 0.0
 		#Range: -1.0 ~ 4.0
-		SUPPRESS_AZURE_DESERT = 0.0
+		SUPPRESS_AZURE_DESERT = 0.15
 		#Range: -1.0 ~ 4.0
-		SUPPRESS_JADEITE_DESERT = 0.0
+		SUPPRESS_JADEITE_DESERT = 0.15
 		#Range: -1.0 ~ 4.0
 		SUPPRESS_VOLCANIC_CAVES = 0.3125
 		#Range: -1.0 ~ 4.0
@@ -69,7 +69,7 @@
 	[emeraldcraft-common-config.functional-configs]
 		#How many gold blocks will a piglin cutey give to the player who helps her.
 		#Range: 1 ~ 64
-		PIGLIN_CUTEY_GIFT = 8
+		PIGLIN_CUTEY_GIFT = 10
 		#The possibility of continuous miner works successfully and drops loots (such as ores and planks) each time it tries. If this value is greater than 1.0, it may drops more loots.
 		#Range: 0.0 ~ 10.0
 		POSSIBILITY_CONTINUOUS_MINER_DROP = 0.75
